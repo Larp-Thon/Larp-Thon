@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luis Ruge
 - 👀 I’m interested in web design, higly interested being an full-stack developer. 
-- 🌱 I’m currently learning Python, Java, MongoDB, SQL Server, Astro and Tailwind.
+- 🌱 I’m currently learning Python, Java, HTML, CSS, TailWind, Next.Js, Git and Github.
 - 💞️ I’m looking to collaborate on projects that means something in the future, or entertainment. 🏈
